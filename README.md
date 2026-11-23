@@ -2,7 +2,8 @@
 
 A small Streamlit app that sends a prompt to an OpenAI chat model through
 [LangChain](https://python.langchain.com/) and shows the answer. Built as an
-introduction to LLM apps at Dakota State University.
+introduction to LLM apps during my M.S. in Analytics at Dakota State University
+(DSU).
 
 ## Run it
 
